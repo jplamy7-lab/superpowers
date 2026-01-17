@@ -1,0 +1,18 @@
+{
+  "skills": [
+    { "name": "brainstorming", "depends": [], "path": "skills/brainstorming/SKILL.md" },
+    { "name": "dispatching-parallel-agents", "depends": [], "path": "skills/dispatching-parallel-agents/SKILL.md" },
+    { "name": "executing-plans", "depends": [], "path": "skills/executing-plans/SKILL.md" },
+    { "name": "finishing-a-development-branch", "depends": [], "path": "skills/finishing-a-development-branch/SKILL.md" },
+    { "name": "receiving-code-review", "depends": [], "path": "skills/receiving-code-review/SKILL.md" },
+    { "name": "requesting-code-review", "depends": [], "path": "skills/requesting-code-review/SKILL.md" },
+    { "name": "subagent-driven-development", "depends": ["executing-plans"], "path": "skills/subagent-driven-development/SKILL.md" },
+    { "name": "systematic-debugging", "depends": [], "path": "skills/systematic-debugging/SKILL.md" },
+    { "name": "test-driven-development", "depends": [], "path": "skills/test-driven-development/SKILL.md" },
+    { "name": "using-git-worktrees", "depends": [], "path": "skills/using-git-worktrees/SKILL.md" },
+    { "name": "using-superpowers", "depends": [], "path": "skills/using-superpowers/SKILL.md" },
+    { "name": "verification-before-completion", "depends": [], "path": "skills/verification-before-completion/SKILL.md" },
+    { "name": "writing-plans", "depends": [], "path": "skills/writing-plans/SKILL.md" },
+    { "name": "writing-skills", "depends": [], "path": "skills/writing-skills/SKILL.md" }
+  ]
+}
